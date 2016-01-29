@@ -1,3 +1,14 @@
+/*
+//Author: Anvardh Nanduri
+//This is a C++ implementation of Louvain algorithm.
+//Reference: Fast unfolding of communities in large networks Blondel et.al
+//Department of Mathematical Engineering, Universit´e catholique de Louvain.
+//This code has been developed as part of Social Network Analysis course work
+//at George Mason University in Mar 2015 solely for academic purpose.
+//No part of this code can be used without author's prior permission
+//email: anvardh@gmail.com
+*/
+
 #ifndef _NETWORK_H_
 #define _NETWORK_H_
 

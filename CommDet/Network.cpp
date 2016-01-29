@@ -1,3 +1,10 @@
+/*
+//Author: Anvardh Nanduri
+//This code has been developed as part of Social Network Analysis course work
+//at George Mason University in Mar 2015
+//No part of this code can be used without author's permission
+//email: anvardh@gmail.com
+*/
 #include <chrono>
 #include "Network.h"
 
